@@ -1,0 +1,78 @@
+footer{
+    text-align: center;
+    background-color: aqua;
+}
+
+
+header{
+text-align: center;
+background-color: blue;
+padding: 5px;
+}
+
+/* header a{
+    margin: 10px;
+} */
+
+header img{
+    height:170px; width: 170px;
+}
+
+main img{
+    height:200px; width:200px;
+}
+
+.cappy{
+    border-radius:30px ;
+    background-color: aqua;
+    padding: 7px;
+    margin: 20px;
+    font-family:cursive;
+}
+
+.font{
+     font-family:cursive;
+}
+
+img{
+    border:blueviolet;
+}
+
+.blue{
+    color: brown;
+}
+
+.red{
+    color: blue;
+}
+
+.green{
+    color:forestgreen;
+}
+
+.blue-green{
+    color:blue;
+}
+
+.green-blue{
+    color: green;
+}
+
+.yellow{
+    color:orange;
+}
+.ssilki{
+     display: flex;
+}
+
+a{
+    text-decoration: none;
+}
+
+header a:hover{
+    background-color: rgb(19, 190, 190);
+}
+
+img{
+    border: 5px dashed red;
+}
